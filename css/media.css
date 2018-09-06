@@ -1,0 +1,323 @@
+@media (max-width: 575.98px) {
+    .navbar-toggler {
+        background-color: #fafafa;
+    }
+    
+    header {
+        height: auto;
+    }
+
+    .header-text {
+        position: relative;
+        padding-top: 480px;
+    }
+    
+    .header-content button {
+        margin-bottom: 50px;
+    }
+    
+    .template {
+        height: auto;
+    }
+    
+    .template::before {
+        left: -2px;
+        height: 23px;
+        transform: rotate(-2deg);
+    } 
+    
+    .template-img img {
+        width: 96%;
+        margin-left: 14px;
+    }
+    
+    .service-img {
+        margin: 0px auto;
+    }
+    
+    .service-contents p {
+        padding-bottom: 35px;
+    }
+    
+    .quote-text p {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    .price-section {
+        height: auto;
+    }
+    
+    .price-text {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    
+    .tag {
+        padding-bottom: 25px;
+        padding-right: 16px;
+    }
+    
+    .support-content {
+        padding-left: 17px;
+    }
+    
+    .join-us {
+        height: 180px;
+    }
+    
+    .joinUs-text {
+        padding-left: 10px;
+        text-align: center;
+    }
+    
+    .join-us button {
+        margin-left: auto;
+    }
+    
+    .l-update {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    
+    .b-img {
+        padding-left: 0px;
+        width: 100%;
+    }
+    
+    .download {
+        padding-left: 35px;
+    }
+    
+    .copyright {
+        text-align: center;
+    }
+    
+    .logo-f {
+        text-align: center;
+        padding-left: 35px;
+    }
+    
+    .design-by {
+        text-align: right;
+    }
+    
+    .footer-logo {
+        text-align: left;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler {
+        background-color: #fafafa;
+    }
+    
+    header {
+        height: auto;
+    }
+    
+    .header-text {
+        position: relative;
+        padding-top: 480px;
+    }
+    
+    .template {
+        height: auto;
+    }
+    
+    .template::before {
+        left: -5px;
+        height: 22px;
+        transform: rotate(-1.5deg);
+    }
+    
+    .template-img img {
+        width: 97%;
+        margin-left: 14px;
+    }
+    
+    .service-img {
+        margin: 0px auto;
+    }
+    
+    .quote-text p {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    .price-section {
+        height: auto;
+    }
+    
+    .price-text {
+        padding-left: 65px;
+        padding-right: 65px;
+    }
+    
+    .tag {
+        padding-bottom: 25px;
+    }
+    
+    .joinUs-text {
+        padding-left: 10px;
+        text-align: center;
+    }
+    
+    .join-us button {
+        margin-left: auto;
+    }
+    
+    .l-update {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    
+    .b-img {
+        padding-left: 78px;
+        width: 90%;
+    }
+    
+    .copyright {
+        text-align: center;
+    }
+    
+    .logo-f {
+        text-align: center;
+        padding-left: 35px;
+    }
+    
+    .design-by {
+        text-align: right;
+    }
+    
+    .footer-logo {
+        text-align: left;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-toggler {
+        background-color: #fafafa;
+    }
+    
+    header {
+        height: auto;
+    }
+    
+    .header-text {
+        position: relative;
+        padding-top: 480px;
+    }
+    
+    .template {
+        height: auto;
+    }
+    
+    .template::before {
+        height: 21px;
+        transform: rotate(-1deg);
+    }
+    
+    .template-img img {
+        width: 123%;
+        margin-left: -78px;
+        padding-top: 25px;
+    }
+    
+    .service-img {
+        margin: 0px auto;
+    }
+    
+    .quote-text p {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    .price-section {
+        height: auto;
+    }
+    
+    .price-text {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+    
+    .tag {
+        padding-bottom: 25px;
+    }
+    
+    .joinUs-text {
+        padding-left: 10px;
+        text-align: center;
+    }
+    
+    .join-us button {
+        margin-left: auto;
+    }
+    
+    .l-update {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    
+    .b-img {
+        padding-left: 78px;
+        width: 90%;
+    }
+    
+    .copyright {
+        text-align: center;
+    }
+    
+    .logo-f {
+        text-align: center;
+        padding-left: 35px;
+    }
+    
+    .design-by {
+        text-align: right;
+    }
+    
+    .footer-logo {
+        text-align: left;
+    }
+    
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .template-img img {
+        width: 142%;
+        margin-left: -90px;
+    }
+    
+    .service-img {
+        margin: 0px auto;
+    }
+    
+    .price-section {
+        height: auto;
+    }
+    
+    .price-text {
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+    
+    .tag {
+        padding-bottom: 25px;
+    }
+    
+    .b-img {
+        width: 110%;
+    }
+}
+
+@media (min-width: 1200px) {
+/*
+    .template-img img {
+        margin-left: -90px;
+        width: 168%;
+    }
+*/
+}
